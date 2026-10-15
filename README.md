@@ -10,9 +10,9 @@ The computer randomly selects a number within a given range, and the player has 
 
 After each guess, the program provides hints:
 
-* 📈 "Too high" if the guess is greater than the number
-* 📉 "Too low" if the guess is smaller than the number
-* ✅ "Correct!" when the guess is right
+ 📈 "Too high" if the guess is greater than the number
+ 📉 "Too low" if the guess is smaller than the number
+ ✅ "Correct!" when the guess is right
 
 ---
 
