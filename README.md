@@ -1,10 +1,10 @@
-# 🎯 The Perfect Guess Game
+#  The Perfect Guess Game
 
 A simple Python number guessing game where the player tries to guess a randomly generated number in the least number of attempts.
 
 ---
 
-## 🎮 Game Description
+##  Game Description
 
 The computer randomly selects a number within a given range, and the player has to guess it.
 
